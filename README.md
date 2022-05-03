@@ -1,2 +1,2 @@
 # WebJS_Homework2
-Homework 2 from Web Course
+The second JS task from Web Development Course
